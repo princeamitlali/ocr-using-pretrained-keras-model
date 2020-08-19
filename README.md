@@ -23,7 +23,18 @@ they both comes under computer vision domain.
 keras has a pre-trained OCR model we can get them by either pip install git+https://github.com/faustomorales/keras-ocr.git#egg=keras-ocr or pip install keras-ocr
 
 sample images
+![6](images/6.jpg)
 
+![7](images/7.jpg)
+
+![8](images/8.jpg)
+
+![9](images/9.jpg)
+
+![10](images/10.jpg)
+
+
+with OCR
 ![1](images/1.png)  
 
 ![2](images/2.png)  
@@ -34,14 +45,4 @@ sample images
 
 ![5](images/5.png)
 
-with OCR
 
-![6](images/6.png)
-
-![7](images/7.png)
-
-![8](images/8.png)
-
-![9](images/9.png)
-
-![10](images/10.png)
